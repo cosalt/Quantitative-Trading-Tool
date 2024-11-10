@@ -1,5 +1,4 @@
 # Project: Quantitative Trading Tool Using Black-Scholes Model
-
 ## 1. Core Model Development
 - **Input Variables**: Accept five key inputs for option pricing: volatility, stock price, strike price, time to expiry, and interest rate.
 - **Output**: Calculate and display call and put values based on the Black-Scholes formula.
