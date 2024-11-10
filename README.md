@@ -1,5 +1,3 @@
-# Quantitative-Trading-Tool
-
 # Project: Quantitative Trading Tool Using Black-Scholes Model
 
 ## 1. Core Model Development
