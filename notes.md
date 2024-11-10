@@ -1,5 +1,5 @@
 
-1st project: quant trading project - black scholes option model
+## 1st project: quant trading project - black scholes option model
 1. start with takes 5 inputs to an option - price volatility stock price strike price time to expiry and interest rate and outputs a call and a put value.
 2. create a GUI - streamlit?
 3. create a heat map(green/red)/visualising it - making it configurable
